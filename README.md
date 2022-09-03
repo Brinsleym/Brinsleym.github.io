@@ -1,4 +1,4 @@
-# brinsleymorrison.com [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# brinsleymorrison.com [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?color=blueviolet)](https://github.com/Brinsleym/Brinsleym.github.io/blob/9520fe5eed30488c316f3c9b550a0a4f7229adda/LICENSE)
 
 
 Hello! <br>
