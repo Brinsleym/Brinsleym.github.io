@@ -1,7 +1,7 @@
 ---
-title: Contact
-icon: fas fa-info-circle
-order: 4
+title: Scores
+icon: fas fa-file-alt
+order: 2
 ---
 
 

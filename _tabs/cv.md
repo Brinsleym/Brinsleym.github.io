@@ -1,7 +1,7 @@
 ---
 title: CV
-icon: fas fa-info-circle
-order: 5
+icon: fas fa-id-card-alt
+order: 3
 ---
 
 *coming soon!*

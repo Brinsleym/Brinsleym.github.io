@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Composition
-icon: fas fa-stream
+title: Composition
+icon: fas fa-marker
 order: 1
 permalink: /composition/
 ---
@@ -22,7 +22,12 @@ View the score files on [Github](https://github.com/Brinsleym/The-Brink-of-the-V
 
 
 # Dormire (for string quartet) 
-
+<link rel="stylesheet" href="/assets/css/ytembed.css" type="text/css">
+<div class="maxWidth800">
+  <div class="videoWrapper">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/7wTFGWczEwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 Performed 30 March 2022 in [the Carole Nash Hall](https://stollerhall.com/venue-hire/carole-nash-hall/)
 * Jordan Brooks: Violin
 * Eleanor Mackey: Violin
@@ -30,21 +35,20 @@ Performed 30 March 2022 in [the Carole Nash Hall](https://stollerhall.com/venue-
 * Elena Edwards: Cello
 
 Dormire is an attempt to auditorily depict the mind's contiousness when falling asleep.
+This is done through a series of sections and uses quarter-tonality to create an unnerving atmosphere playing with gthe idea of mistaken familiarity which often comes to me in dreams.
+The opening phrase depicts the act of falling asleep through a series of descending half major/minor 3rds. It foreshadows the nightmare to come and the spell-like nature of being so tired you just can't help but fall asleep. **UNFINISHED**
 
-!!!!!!!!!!
-!!!!!!!!!!
 
+
+
+
+# The Lost Town of Romania
 <link rel="stylesheet" href="/assets/css/ytembed.css" type="text/css">
 <div class="maxWidth800">
   <div class="videoWrapper">
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/7wTFGWczEwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="800" height="450" src="https://www.youtube.com/embed/di88Go1lLRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-
-# The Lost Town of Romania
-
 Premiered 24 November 2021 in [The Carole Nash Hall](https://stollerhall.com/venue-hire/carole-nash-hall/)
 
 The village in the video is called Geamăna in the north-west of Romania. I first came across the stories of this sunken village through a group of video bloggers’ trip round Romania on YouTube and was intrigued by the beauty of the destruction. All the drone footage you see is a compilation of the shots they took on each of their channels. After compiling these, I researched the history of the village, and edited them together with text explaining the story. I then set about writing a soundtrack, combining sampled instruments, synthesis, and various recordings of my singing All the audio in the track has been manipulated in some form. The orchestral instruments and piano you hear are all sampled, with various effects and plugins used.
@@ -54,6 +58,12 @@ The project spanned from January at the start of this year to September, writing
 
 
 # Nageki Tsutsu
+<link rel="stylesheet" href="/assets/css/ytembed.css" type="text/css">
+<div class="maxWidth800">
+  <div class="videoWrapper">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/5I4x6txsa78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 Performed 15 June 2021 in [The Stoller Hall](https://https://stollerhall.com/)
 Chetham’s Contemporary Music Ensemble Chorus
 Doug Mason - Conductor
@@ -62,10 +72,22 @@ The words to my composition; ‘Nageki, Tsutsu’ is written by the Japanese poe
 
 
 
+
 # Spring
+<link rel="stylesheet" href="/assets/css/ytembed.css" type="text/css">
+<div class="maxWidth800">
+  <div class="videoWrapper">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Sn01o6iOUSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 Performed 2 December 2020 in [The Stoller Hall](https://https://stollerhall.com/)
 Williams Chang - Piano
 
 I wrote this piece to convey three images of spring from my childhood where I lived by the coast in North Devon. The first image shows water dripping down the leaves of the plants in our garden into the pools of water on the stones below. The second image tries to portray the sound of distant waves on the rainy beach down the road, building intensity before my next image; the memory of the first time I saw a storm. The awe and amazement I felt for what was happening outside the little window, covered by a layer of water in the dark of night. Then the rain slowed and got lighter and everything was once again back to as it has been before.
 
-<iframe width="615" height="346" src="https://www.youtube.com/embed/7wTFGWczEwo" title="Dormire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+
+
+
+---
+The scores for all of my compositions are freely avaliable on my [Scores]() page.
+Please have a look!
