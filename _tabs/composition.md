@@ -6,6 +6,16 @@ order: 1
 permalink: /composition/
 ---
 
+<div style="background-color:#1C1C1C;text-align:center'color:green" markdown="1">
+
+After personally discovering the difficulty of getting access to copyrighted scores from contemporary composers just to look at or analyse, I've decided to open source everything that I've written so far. All of my scores are available on the [Scores](/scores/index.html) page hello?
+
+</div>
+
+<div style="text-align:center" markdown="1">
+`After personally discovering the difficulty of getting access to copyrighted scores from contemporary composers just to look at or analyse, I've decided to open source everything that I've written so far. All of my scores are available on the [Scores](/scores/index.html) page`
+</div>
+
 # The Brink of the Valley 
 
 Performed *29 June 2022* -- in <a href="https://stollerhall.com" target="_blank">The Stoller Hall</a><br> 
@@ -16,8 +26,11 @@ Brinsley Morrison - Conductor
 I wanted to depict the beautiful view from the top of the valley near where I live in Cornwall. <br>    The piece takes a journey from the beautiful pink setting of the sun as nature goes to sleep, to a night in which warm fires glow. People are merry, singing, dancing and eating to their hearts' content while nature holds the land in a serene stillness.
 When writing this, I was influenced by Japanese jazz fusion composers such as Yuji Ohno and Takahiro Obata, who follow Hans Zimmer’s example of fusing technology and classically influenced orchestration with jazz and modal/quartal tonalities from traditional Japanese instruments. I wrote for a similarly large ensemble and didn’t include brass as I didn’t want its metallic timbre. I included harp, marimba and celeste as I also wanted to create an instrumentation based on the standard classical orchestration, but with a greater range of timbres. The large ensemble is partly why I chose to include an electric cello, rather than a regular acoustic. As it dominates the melodic interest, I wanted it to be audible over the other instruments. The choice was also partly inspired from Steve Reich’s integration of electric and acoustic instruments, and wanted to create a similar sound, and my piece is similarly minimalist, with great interest within the texture.
 
-*Unfortunatly, a recording of this performance is unavaliable* <br>
-View the score files on [Github](https://github.com/Brinsleym/The-Brink-of-the-Valley)
+*Below is a photo from the performance, unfortunatly a recording is not available* 
+
+<img src="https://raw.githubusercontent.com/Brinsleym/Brinsleym.github.io/main/assets/img/cover.png" width="800px">
+
+You can listen to the MIDI audio  [Github](https://github.com/Brinsleym/The-Brink-of-the-Valley)
 
 
 
