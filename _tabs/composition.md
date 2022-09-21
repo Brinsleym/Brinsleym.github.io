@@ -6,17 +6,14 @@ order: 1
 permalink: /composition/
 ---
 
-<div style="background-color:#1C1C1C;text-align:center'color:green" markdown="1">
 
-After personally discovering the difficulty of getting access to copyrighted scores from contemporary composers just to look at or analyse, I've decided to open source everything that I've written so far. All of my scores are available on the [Scores](/scores/index.html) page hello?
+> After personally discovering the difficulty of getting access to scores from contemporary composers  
+> to look at, analyse, or perform. I've decided to open source everything that I've written so far.  
+>  
+> **All of my scores are available to view, download and edit for free on the [Scores](/scores/index.html) page.**
+{: .prompt-info }
 
-</div>
-
-<div style="text-align:center" markdown="1">
-`After personally discovering the difficulty of getting access to copyrighted scores from contemporary composers just to look at or analyse, I've decided to open source everything that I've written so far. All of my scores are available on the [Scores](/scores/index.html) page`
-</div>
-
-# The Brink of the Valley 
+# The Brink of the Valley
 
 Performed *29 June 2022* -- in <a href="https://stollerhall.com" target="_blank">The Stoller Hall</a><br> 
 by Chetham’s Contemporary Music Ensemble and Chorus, <br>
@@ -28,9 +25,8 @@ When writing this, I was influenced by Japanese jazz fusion composers such as Yu
 
 *Below is a photo from the performance, unfortunatly a recording is not available* 
 
-<img src="https://raw.githubusercontent.com/Brinsleym/Brinsleym.github.io/main/assets/img/cover.png" width="800px">
+<img src="/assets/img/conducting.png" width="800px">
 
-You can listen to the MIDI audio  [Github](https://github.com/Brinsleym/The-Brink-of-the-Valley)
 
 
 
@@ -97,10 +93,3 @@ Performed 2 December 2020 in [The Stoller Hall](https://https://stollerhall.com/
 Williams Chang - Piano
 
 I wrote this piece to convey three images of spring from my childhood where I lived by the coast in North Devon. The first image shows water dripping down the leaves of the plants in our garden into the pools of water on the stones below. The second image tries to portray the sound of distant waves on the rainy beach down the road, building intensity before my next image; the memory of the first time I saw a storm. The awe and amazement I felt for what was happening outside the little window, covered by a layer of water in the dark of night. Then the rain slowed and got lighter and everything was once again back to as it has been before.
-
-
-
-
----
-The scores for all of my compositions are freely avaliable on my [Scores]() page.
-Please have a look!
