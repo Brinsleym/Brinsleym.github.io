@@ -1,9 +1,9 @@
 # brinsleymorrison.com [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg?color=blueviolet)](https://github.com/Brinsleym/Brinsleym.github.io/blob/9520fe5eed30488c316f3c9b550a0a4f7229adda/LICENSE)
 
 
-Hello! <br>
-Welcome to the repository of my source code for [brinsleymorrison.com](https://brinsleymorrison.com/)
+This is the repository of the source code for [brinsleymorrison.com](https://brinsleymorrison.com/)
 I've built the site using Github Pages with [Jekyll](https://jekyllrb.com/) and [Jekyll Theme Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+
 
 ## License
 
