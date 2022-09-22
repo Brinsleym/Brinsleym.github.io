@@ -9,8 +9,8 @@ permalink: /composition/
 
 > After personally discovering the difficulty of getting access to scores from contemporary composers  
 > to look at, analyse, or perform. I've decided to open source everything that I've written so far.  
->  
-> **All of my scores are available to view, download and edit for free on the [Scores](/scores/index.html) page.**
+
+> **All of my scores are available to view, download and edit for free on the [Scores](/scores/) page.**
 {: .prompt-info }
 
 ---
@@ -92,6 +92,6 @@ I wrote this piece to convey three images of spring from my childhood where I li
 ---
 
 # Somnolence
-I wrote this composition for the BBC Young Composer 30 second composition challenge Composition Challenge.  I wanted to capture the atmosphere of a relaxed, hot summer afternoon which time lazily passes by. The piece was <a href="www.bbc.co.uk/programmes/p08tvn9h" target="_blank" rel="noopener noreferrer">performed by the BBC Musician Elizabeth Burley</a><br> and was picked as one of the 18 winners of the competition.
+I wrote this composition for the BBC Young Composer 30 second composition challenge Composition Challenge.  I wanted to capture the atmosphere of a relaxed, hot summer afternoon which time lazily passes by. The piece was <a href="www.bbc.co.uk/programmes/p08tvn9h" target="_blank" rel="noopener noreferrer">performed by the BBC Musician Elizabeth Burley</a> and was picked as one of the 18 winners of the competition.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/981384886&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>

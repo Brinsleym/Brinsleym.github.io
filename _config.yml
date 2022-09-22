@@ -23,10 +23,10 @@ timezone: Europe/London
 
 title: Brinsley Morrison                          # the main title
 
-tagline: Undergraduate BA Music Student at York University   # it will display as the sub-title
+tagline: British composer, musician and performer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- Portfolio website for Brinsley Morrison's music compositions.
+ Brinsley Morrison's compositions and achievments.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'Brinsleym.github.io'
@@ -44,7 +44,7 @@ social:
   email: contact@brinsleymorrison.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://brinsleymorrison.com      # change to your twitter homepage
     - https://github.com/brinsleym       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

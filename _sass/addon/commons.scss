@@ -1094,11 +1094,15 @@ $sidebar-display: "sidebar-display";
   margin-top: $topbar-height; /* same as the height of topbar */
 }
 
+/* --- TOPBAR WRAPPER - UNNEEDED
+
 #topbar-wrapper.row,
 #main > .row,
 #search-result-wrapper > .row {
   @include ml-mr(0);
 }
+
+*/
 
 /* --- button back-to-top --- */
 

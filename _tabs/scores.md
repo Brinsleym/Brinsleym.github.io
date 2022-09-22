@@ -2,6 +2,7 @@
 title: Scores
 icon: fas fa-file-alt
 order: 2
+permalink: /scores/
 ---
 
 # The Brink of the Valley (Score)
